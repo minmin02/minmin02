@@ -3,8 +3,6 @@
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Aspiring Cloud Native Developer ☁️ </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> <li> 단순한 기능 구현을 넘어, 시스템 전체의 흐름을 보는 개발자가 되기 위해 학습하고 있습니다</li></li><li> 협업을 즐기며 책임감을 갖고 개발하는 김민규입니다 </div> 
-    </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
