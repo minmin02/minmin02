@@ -2,7 +2,6 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:04f176,100:20d6ee&height=180&text=MinKyu's%20GitHub%20&animation=scaleIn&fontColor=ffffff&fontSize=60" />
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Aspiring Cloud Native Developer ☁️ </h2>  
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
