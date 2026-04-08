@@ -1,4 +1,3 @@
-![GitHub Chart](https://ghchart.rshah.org/f06292/minmin02
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:04f176,100:20d6ee&height=180&text=MinKyu's%20GitHub%20&animation=scaleIn&fontColor=ffffff&fontSize=60" />
     </div>
